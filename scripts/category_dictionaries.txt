@@ -1,0 +1,36 @@
+СЛОВАРИ ДЛЯ КАТЕГОРИЙ (уникальность + частотность)
+============================================================
+
+Business:
+chris, mariam, albeer, groupe, rfq, stage, desautels, albathera, statement, tender, these, swati, meeting, firm, file, 1283910, подрядных, документацию, response, discuss, looking, tenable, representative, 409, 5007, subscription, quick, often, learn, provenance, extérieur, irene, 9714, 875, 7899, уважаемая, направляем, зао, нефтегазсервис, najem, afternoon, invoices, require, wang, settlement, logistics, final, rev, replenishment, proprietary
+
+Financial:
+theme, номер, light, 1770, офд, товар, итого, 118, local, ofd, поставщика, муниципальный, округ, кассовый, приход, 25г, 988, безналичными, деньги, 1d2024, товара, гуп, московский, метрополитен, покупателя, признак, расчетов, найден, мои, реквизиты, указаны, черкасова, алена, андреевна, 123007, федерального, значения, хорошевский, хорошёвское, помещ, iii, комната, черн, 564, зел, 187, отправитель, счетах, 005bff, ogsc
+
+Harm:
+485, знаем, бонус, viber, lowe, tool, bag, вулкан, отменить, пройдя, требуем, mini, neo, vsexshop, stream, pornhub, wcook, giveaway, stanley, fatmax, некорректно, почтовом, клиенте, тут, vulkan24, хотя, бонуса, googleplay, вулкан24, 2012, дети, говорить, остановить, хотим, знали, преступлениями, webcam, wanna, 8000, вибропуля, vibe, tango, дизайне, маленькая, попка, мастурбатор, выполнен, вибратор, анальная, пробка
+
+Newsletters:
+string, class, article, суды, guardian, trump, bbc, array, review_translit, translit, small_image, поддержали, тысяч, цифровизация, against, neue, geneva, трудовые, рынок, 2025конференция, рейтинг, анкета, 0054a6, сбора, травматизм, договоров, облако, истории, порядок, заключения, взносы, ндфл, создания, отчетности, января, постановление, переходит, president, most, their, his, шоу, инфраструктура, cnews, w640, 555555, переквалификацию, суд, округа, делу
+
+Other:
+miro, devices, videos, complete, квестов, kinky, allrecords, edt, until, boards, browsing, history, become, easily, virus, yours, records, still, bitcoin, away, анна, сокровища, бога, del, este, mensaje, вебинар, мероприятий, сообщества, pinterest, serve, belarus, effective, беларуси, сентября, аккаунту, доски, registration, dan, activities, simple, result, trojan, since, inbox, quite, software, servers, hence, dirty
+
+Promotional:
+row, pad, text_block, items, рбк, 640px, вино, desktop_hide, image_block, 680px, реклама, 610px, 620px, sub, gift, big, hover_img, 40px, 374px, 413px, 50px, чёрная, 150px, литрес, container1, нетология, mobile_hide, advantages, каталог, напитки, sms, active_link_head, img_hover, table680, 26px, 32px, новинки, vkusnoitochka, 660px, line_height, font_size, 100perc, padding_left, padding_right, 768px, выгоду, нетологии, icons, alignment, готовые
+
+Registration:
+mpb, kuda, vertical, btn, mpt, 123px, 312px, adaptive, 333333, 0099ff, подтвердите, offprice, 4px, mfz, verification, technologies, pandora, tbody, лояльности, оплачивайте, бонусами, mpx, mlh, dir, 54px, 104px, 114, 114px, reddit, пароль, ltd, nigerian, microfinance, nigeria, 312, 479px, shift, 1585e5, label, basis, grotesque, woff, truetype, почту, закрытых, распродажах, f2f2f2, unisender, 313e42, allow
+
+System:
+450, billing, duration, status, достаточно, budget, spend, cost, amazon, ec2, finished, successfully, staging, 1234, success, session, msk, srv, планируем, обновить, панель, перерыв, составит, подобного, характера, темой, инфраструктурные, 1cmycloud, ssh, sha256, goqhug5rdoi, phkc2prtsfiq2570brutagdvadv24ey, disable, alert, alpha, forecasted, month, highest, rds, 145, 892, recommended, instance, instances, enable, detailed, pipeline, 782, commit, gateway
+
+Technical:
+training, nucleus, internal, audit, 404, доступа, transmission, логи, grep, tmp, report_api_404, устройства, head, chennai, авиационной, серверу, пишет, пришлите, попытке, chrome, страница, загружается, бесконечно, консоли, found, проблема, воспроизводится, вчерашнего, работало, корректно, проверяли, кэш, браузера, помогло, доступность, эндпоинта, возможные, маршрутизации, срочность, средняя, ежедневную, отчётность, certificate, zuhair, aljayzani, nami, iso, opinions, official, ознакомиться
+
+Transport:
+туту, seat, airbus, a321, booking, псков, бронирования, ленинградский, вокзал, отправление, пути, поезд, вагон, круглосуточный, авиабилеты, автобусы, отелей, aeroflot, 1041, изменено, iuliia, viktorovna, 21a, 25b, бронированием, 687f1c, телефоны, 223, 444, 555, маршрут, 868, скоро, едете, откуда, куда, пасс, прибытие, 010аа, кукин, максим, юрьевич, купейный, рег, добавить, вложении, распечатайте, применении, контрольно, кассовой
+
+Vacancies:
+вакансию, вакансии, отклик, отклики, хабр, откликов, навыки, подходящих, специалистам, размещение, ней, логотип, карьеру, python, кандидата, вакансия, фоне, карьеры, мария, интерес, аналитик, стажировки, департамент, карьера, кандидат, откликнулся, специалисте, владение, навыками, postgresql, redis, должность, последнем, backend, опыт, отклику, укажите, подробней, необходимы, соискателю, расставьте, порядке, важности, сильно, сказывается, точности, подбора, похожих, вакансиях, вкладку
+
