@@ -2,7 +2,7 @@
 ![logo](https://github.com/user-attachments/assets/1b4241a3-e7fc-4be9-aa2e-83a8ef920d28)
 
 Команда проекта
-Участники 
+
 
     Даминов Артур
 
