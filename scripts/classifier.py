@@ -6,8 +6,8 @@ import os
 
 # === КОНФИГУРАЦИЯ ===
 OTHER_CATEGORY_NAME = "Другое"  # Исключительная категория
-OTHER_CATEGORY_THRESHOLD = 0.4  #  порог
-MIN_CONFIDENCE_FOR_DISPLAY = 0.3  # Минимальная уверенность для нормального отображения
+OTHER_CATEGORY_THRESHOLD = 0.6  # Порог
+MIN_CONFIDENCE_FOR_DISPLAY = 0.45  # Минимальная уверенность для нормального отображения
 
 # === ПУТИ ===
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -214,9 +214,9 @@ def classify_emails(emails: list, categories_file: str, top_n: int = 5, threshol
                     best_category, best_confidence = category_scores[0]
                     stats['confidences'].append(best_confidence)
                     
-                    # Применяем логику с категорией "Другое"
+                    # Применяем логику с категорией "ДРУГОЕ"
                     if best_confidence < OTHER_CATEGORY_THRESHOLD:
-                        # Письмо идет в категорию "Другое"
+                        # Письмо идет в категорию "ДРУГОЕ"
                         final_category_scores = [(OTHER_CATEGORY_NAME, best_confidence)]
                         stats['to_other'] += 1
                         
