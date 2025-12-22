@@ -1,1 +1,1 @@
-Programm will load in this directory you model at first start
+The program will load your model in this directory on the first start
