@@ -12,7 +12,7 @@ Hackaton_mail/
 │   ├── vocabulary.py         # Генерация словарей категорий
 │   └── check_environment.py  # Проверка окружения
 ├── categories/               # Категории классификации
-│   └── new_cats.txt          # Список из 11 базовых категорий
+│   └── new_cats.txt          # Список из 10 базовых категорий
 ├── data_input/              # Входные данные для анализа
 │   ├── business_and_correspondence_1.eml
 │   ├── financial_transactions_and_cheques_1.eml
