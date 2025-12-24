@@ -1,0 +1,9 @@
+Опциональные комманды  для  сборки и запуск докера 
+
+Выполните команду для сборки Docker-образа:
+docker build -t hackaton-mail .
+После успешной сборки запустите контейнер:
+docker run -it --rm -p 8501:8501 hackaton-mail
+
+Для пролучени отчета и  запуск Сримлит 
+docker run -it --rm -p 8501:8501 hackaton-mail streamlit run scripts/app.py --server.address=0.0.0.0
